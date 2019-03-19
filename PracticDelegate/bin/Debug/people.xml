@@ -1,0 +1,15 @@
+<people>
+  <id>1</id>
+  <name>Luke Skywalker</name>
+  <height>172</height>
+  <mass>77</mass>
+  <hairColor>blond</hairColor>
+  <skinColor>fair</skinColor>
+  <eyeColor>blue</eyeColor>
+  <birthYear>19BBY</birthYear>
+  <gender>male</gender>
+  <homeworld>https://swapi.co/api/planets/1/</homeworld>
+  <created>2014-12-09T13:50:51.644000Z</created>
+  <edited>2014-12-20T21:17:56.891000Z</edited>
+  <url>https://swapi.co/api/people/1/</url>
+</people>
